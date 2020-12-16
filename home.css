@@ -1,0 +1,37 @@
+
+
+
+h1 {
+color: darkblue;
+font-size: larger;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+
+}
+
+h2{ 
+    color:powderblue;
+font-size: large;
+font-family:Arial, Helvetica, sans-serif;
+text-align: center;
+
+}
+
+p{
+    color: darkblue;
+font-size:medium;
+font-family: cursive;
+border-style: double;
+text-align: center;
+align-content: center;
+align-items: center;
+align-self: center;
+max-width: 80%;
+}
+
+body {
+    background-color:#fafafa;
+  }
+  
+  .classid {color:sienna;} 
+  
