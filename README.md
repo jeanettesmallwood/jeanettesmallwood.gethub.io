@@ -1,1 +1,1 @@
-# jeanettesmallwood.gethub.io
+# jeanettesmallwood.github.io
